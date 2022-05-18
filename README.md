@@ -69,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Install Tailwind and headlessui for design and icons implementation
+
+`npm install -D tailwindcss postcss autoprefixer`
+`npx tailwindcss init -p`
+
+
+`npm i @headlessui/react`
+`npm i @heroicons/react`
+
+You can read docs here [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app)
